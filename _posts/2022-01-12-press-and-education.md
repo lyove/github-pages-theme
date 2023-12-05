@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Press and education"
-author: Meta-Explore
+author: Lyove
 categories: [ Jekyll, Blog, tutorial ]
 image: assets/images/12.jpg
 ---

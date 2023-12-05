@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The best gift is you"
-author: Meta-Explore
+author: Lyove
 categories: [ Blog ]
 image: assets/images/7.jpg
 featured: true

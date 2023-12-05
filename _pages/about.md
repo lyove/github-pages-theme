@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meta-Explore Template for Jekyll
+title: Lyove Template for Jekyll
 permalink: /about
 comments: false
 ---
@@ -8,12 +8,12 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Meta-Explore template for Jekyll. It's for demonstration purposes, no real content can be found. Meta-Explore template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>This website is built with Jekyll and Lyove template for Jekyll. It's for demonstration purposes, no real content can be found. Lyove template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/meta-explore-template.jpg" alt="jekyll template Meta-Explore" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/lyove-template.jpg" alt="jekyll template Lyove" /></p>
 <h4>Documentation</h4>
 
-<p>"Meta-Explore" is a free Bootstrap Jekyll theme for blogging, collections, resources, reviews websites</p>
+<p>"Lyove" is a free Bootstrap Jekyll theme for blogging, collections, resources, reviews websites</p>
 
 <h4>Features</h4>
 <ul>
@@ -61,17 +61,17 @@ comments: false
 
 <h4>What’s Jekyll</h4>
 
-<p>If you aren’t familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked…just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! This page itself is free hosted on Github with the help of Jekyll and Meta-Explore template that you’re currently previewing. If you are a beginner we recommend you start with <a href="https://jekyllrb.com/docs/installation/">Jekyll’s Docs</a>. Now if you know how to use Jekyll, let’s move on to using Meta-Explore template in Jekyll:</p>
+<p>If you aren’t familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked…just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! This page itself is free hosted on Github with the help of Jekyll and Lyove template that you’re currently previewing. If you are a beginner we recommend you start with <a href="https://jekyllrb.com/docs/installation/">Jekyll’s Docs</a>. Now if you know how to use Jekyll, let’s move on to using Lyove template in Jekyll:</p>
 
-<h4>How to use "Meta-Explore" theme</h4>
+<h4>How to use "Lyove" theme</h4>
 
 <ol>
-    <li><a href="https://github.com/meta-explore/github-pages-theme/archive/master.zip">Download</a> or <code class="highlighter-rouge">git clone https://github.com/meta-explore/github-pages-theme.git</code></li>
-    <li><code class="highlighter-rouge">cd meta-explore-theme</code></li>
+    <li><a href="https://github.com/lyove/github-pages-theme/archive/master.zip">Download</a> or <code class="highlighter-rouge">git clone https://github.com/lyove/github-pages-theme.git</code></li>
+    <li><code class="highlighter-rouge">cd lyove-theme</code></li>
     <li><code class="highlighter-rouge">bundle</code></li>
     <li>Edit <code class="highlighter-rouge">_config.yml</code> options. If your site is in root: <code class="highlighter-rouge">baseurl: ''</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.</li>
     <li><code class="highlighter-rouge">jekyll serve --watch</code></li>
-    <li>Start by adding your <code class="highlighter-rouge">.md</code> files in <code class="highlighter-rouge">_posts</code>. Meta-Explore already has a few examples.</li>
+    <li>Start by adding your <code class="highlighter-rouge">.md</code> files in <code class="highlighter-rouge">_posts</code>. Lyove already has a few examples.</li>
     <li>YAML front matter
         <ul>
             <li>featured post - <code class="highlighter-rouge">featured:true</code></li>
@@ -119,7 +119,7 @@ comments: false
                     <td class="rouge-code">
 <pre><code><span class="nn">---</span>
 <span class="na">layout</span><span class="pi">:</span> <span class="s">page</span>
-<span class="na">title</span><span class="pi">:</span> <span class="s">Meta-Explore Template for Jekyll</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">Lyove Template for Jekyll</span>
 <span class="na">comments</span><span class="pi">:</span> <span class="no">true</span>
 <span class="nn">---</span>
 </code></pre>
@@ -200,11 +200,11 @@ lazyimages: "enabled"
     </div>
 </div>
 
-<p><code class="highlighter-rouge">beforetoc</code> adds a paragraph before the TOC is displayed. <a href="https://meta-explore.github.io/">Demo</a></p>
+<p><code class="highlighter-rouge">beforetoc</code> adds a paragraph before the TOC is displayed. <a href="https://lyove.github.io/">Demo</a></p>
 
 <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/meta-explore/github-pages-theme">Github repository</a>!</p>
+<p>Head over to our <a href="https://github.com/lyove/github-pages-theme">Github repository</a>!</p>
 
 </div>
 
@@ -213,9 +213,9 @@ lazyimages: "enabled"
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/meta-explore/github-pages-theme">Meta-Explore <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/lyove/github-pages-theme">Lyove <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.paypal.me/chzng" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://meta-explore.github.io/about" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.paypal.me/chzng" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://lyove.github.io/about" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>

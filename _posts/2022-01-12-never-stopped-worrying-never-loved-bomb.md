@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Never stopped worrying or loving the bomb"
-author: Meta-Explore
+author: Lyove
 categories: [ Jekyll ]
 image: assets/images/14.jpg
 rating: 4.5
